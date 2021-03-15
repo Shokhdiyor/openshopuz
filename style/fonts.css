@@ -1,0 +1,9 @@
+@font-face{
+    src: url(../fonts/NotoSans-Bold.ttf);
+    font-family: 'NS700';
+}
+
+@font-face{
+    src: url(../fonts/NotoSans-Regular.ttf);
+    font-family: 'NS400';
+}
