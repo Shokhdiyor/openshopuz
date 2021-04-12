@@ -886,7 +886,7 @@ hr{
     .iphone__btn{
         justify-content: center;
     }
-    .qwas{
+    .plays__flex{
         flex-direction: column;
         align-items: center;
     }
