@@ -1,9 +1,23 @@
 @font-face{
-    src: url(../fonts/NotoSans-Bold.ttf);
+    src: url(../fonts/NotoSansDisplay-Bold.ttf);
     font-family: 'NS700';
 }
 
 @font-face{
-    src: url(../fonts/NotoSans-Regular.ttf);
+    src: url(../fonts/NotoSansDisplay-SemiBold.ttf);
+    font-family: 'NS600';
+}
+
+@font-face{
+    src: url(../fonts/NotoSansDisplay-Medium.ttf);
+    font-family: 'NS500';
+}
+
+@font-face{
+    src: url(../fonts/NotoSansDisplay-Regular.ttf);
     font-family: 'NS400';
+}
+@font-face{
+    src: url(../fonts/NotoSansDisplay-Light.ttf);
+    font-family: 'NS300';
 }
